@@ -16,3 +16,5 @@ Este projeto é um aplicativo web interativo construído com **Streamlit** para 
 ## Como rodar o projeto localmente
 1. Instale as dependências: `pip install -r requirements.txt`
 2. Execute o comando: `streamlit run app.py`
+
+Link do Aplicativo: https://projeto-carros-tripleten-sprint5.onrender.com/
